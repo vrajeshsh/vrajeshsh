@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrajesh</h1>
-<h3 align="center">I'm currently a Computer Science graduate student at Virginia Tech. I enjoy learning languages and building softwares.</h3>
+<h3 align="center">I'm currently a Computer Science graduate student at Virginia Tech. I enjoy learning languages and building softwares. Do check out my downtime projects here.</h3>
 
 - 👨‍💻 All of my projects are available at [https://vrajeshsh.github.io/portfolio/](https://vrajeshsh.github.io/portfolio/)
 
