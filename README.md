@@ -7,6 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing](https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing)
 
+<br>
 
 ![Vrajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajeshsh&hide=contribs,prs)
 
