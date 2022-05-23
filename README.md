@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vrajeshsh.github.io/portfolio/](https://vrajeshsh.github.io/portfolio/)
 
-- 📫 How to reach me **vrajeshshah13@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing](https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing)
 
 <br>
