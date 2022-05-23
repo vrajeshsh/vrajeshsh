@@ -1,9 +1,11 @@
 ### Hi👋, I'm Vrajesh
 #### Welcome to my profile
 
+I'm currently a Computer Science graduate student at Virginia Tech. I enjoy learning languages and building softwares. Feel free to reach out to me to collaborate on mobile and web apps.
+
+[![Vrajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajeshsh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vrajeshsh/vrajeshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
