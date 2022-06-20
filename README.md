@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrajesh</h1>
 <h4 align="center">I'm currently a Computer Science graduate student at Virginia Tech. I enjoy learning languages and building softwares. Do check out my downtime projects here.</h4>
 
-- 👨‍💻 All of my projects are available on [my portfolio](https://vrajeshsh.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on [my portfolio.](https://vrajeshsh.github.io/portfolio/)
 
 - 📄 Know about my experiences through my [Resume.](https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing)
 
