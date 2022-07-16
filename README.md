@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio.](https://vrajeshsh.github.io/portfolio/)
 
-- 📄 Know about my experiences through my [Resume.](https://drive.google.com/file/d/1WLNjY9g8P6jdQZuFHcViixX8GK0kU9rE/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume.](https://drive.google.com/uc?export=download&id=1WZRC5UpjDXe5wSC-E_0sKRvmrlAEVx6q)
 
 <br>
 
