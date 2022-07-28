@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrajesh</h1>
-<h4 align="center">I'm currently a Computer Science graduate student at Virginia Tech. I enjoy learning languages and building softwares. Do check out my downtime projects here.</h4>
+<h4 align="center">I'm currently a Computer Science graduate student at Virginia Tech. Do check out my downtime projects here.</h4>
 
 - 👨‍💻 All of my projects are available on [my portfolio.](https://vrajeshsh.github.io/portfolio/)
 
